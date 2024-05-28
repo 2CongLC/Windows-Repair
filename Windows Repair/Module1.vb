@@ -14,9 +14,15 @@ Module Module1
     Friend Function ByteArrayToHexString(value As Object) As String
         Return BitConverter.ToString(value).Replace("-", "")
     End Function
+    Public Function ConvertToHexString(ByVal value As Byte()) As String
+        Return String.Join("", value.Select(Function(by) by.ToString("X2")))
+    End Function
+
+
     Friend Function HexStringToByteArray(ByVal shex As String) As Byte()
         Dim B As Byte() = Enumerable.Range(0, shex.Length).Where(Function(x) x Mod 2 = 0).[Select](Function(x) Convert.ToByte(shex.Substring(x, 2), 16)).ToArray()
-        Return Enumerable.Range(0, shex.Length).Where(Function(x) x Mod 2 = 0).[Select](Function(x) Convert.ToByte(shex.Substring(x, 2), 16)).ToArray()
+        'Return Enumerable.Range(0, shex.Length).Where(Function(x) x Mod 2 = 0).[Select](Function(x) Convert.ToByte(shex.Substring(x, 2), 16)).ToArray()
+        Return B
     End Function
     Friend Function GetImageSize(inFile As String, Optional Width As String = "110", Optional Height As String = " 95") As Boolean
         Dim bm As New Bitmap(inFile)

@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{44663BA0-09A7-429C-A657-D31F609DC0F9}|Windows Repair\\Windows Repair.vbproj|solutionrelative:windows repair\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44663BA0-09A7-429C-A657-D31F609DC0F9}|Windows Repair\\Windows Repair.vbproj|d:\\source vbnet_c#\\github\\windows-repair\\windows repair\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{44663BA0-09A7-429C-A657-D31F609DC0F9}|Windows Repair\\Windows Repair.vbproj|d:\\source vbnet_c#\\github\\windows-repair\\windows repair\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{44663BA0-09A7-429C-A657-D31F609DC0F9}|Windows Repair\\Windows Repair.vbproj|solutionrelative:windows repair\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44663BA0-09A7-429C-A657-D31F609DC0F9}|Windows Repair\\Windows Repair.vbproj|D:\\Source VBNet_C#\\GitHub\\Windows-Repair\\windows repair\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{44663BA0-09A7-429C-A657-D31F609DC0F9}|Windows Repair\\Windows Repair.vbproj|solutionrelative:windows repair\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Windows-Repair\\Windows Repair\\Module1.vb",
+              "RelativeDocumentMoniker": "Windows Repair\\Module1.vb",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Windows-Repair\\Windows Repair\\Module1.vb",
+              "RelativeToolTip": "Windows Repair\\Module1.vb",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBYAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T01:10:42.685Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Windows Repair\\Form1.vb",
               "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Windows-Repair\\Windows Repair\\Form1.vb",
               "RelativeToolTip": "Windows Repair\\Form1.vb",
-              "ViewState": "AQIAAHsCAAAAAAAAAAAUwJICAAASAAAA",
+              "ViewState": "AQIAAFoCAAAAAAAAAAAUwJgCAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-05-28T01:03:56.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Windows-Repair\\Windows Repair\\Form1.vb",
               "RelativeDocumentMoniker": "Windows Repair\\Form1.vb",

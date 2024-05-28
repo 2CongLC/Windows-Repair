@@ -653,10 +653,18 @@ Public Class Form1
 
         Reg = Registry.CurrentUser.OpenSubKey("SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer", True)
         If Reg IsNot Nothing Then
-            If Not ByteArrayToHexString(Reg.GetValue("link")) = "00000000" Then
-                AddListview1("link", ByteArrayToHexString(Reg.GetValue("link")), "Desktop", "Đã thay đổi thành công !")
-                Reg.SetValue("link", CLng(0), RegistryValueKind.Binary)
+            'If Not ByteArrayToHexString(Reg.GetValue("link")) = "00000000" Then
+            'AddListview1("link", ByteArrayToHexString(Reg.GetValue("link")), "Desktop", "Đã thay đổi thành công !")
+            ' Reg.SetValue("link", CLng(0), RegistryValueKind.Binary)
+            ' End If
+            If Not ConvertToHexString(Reg.GetValue("link")) = "00000000" Then
+                AddListview1("link", ConvertToHexString(Reg.GetValue("link")), "Desktop", "Đã thay đổi thành công !")
+                Dim data As Byte() = HexStringToByteArray("00000000")
+                Reg.SetValue("link", data, RegistryValueKind.Binary) '&H0L
             End If
+
+
+
         End If
     End Sub
     Private Sub ResetSystemControlSet()
