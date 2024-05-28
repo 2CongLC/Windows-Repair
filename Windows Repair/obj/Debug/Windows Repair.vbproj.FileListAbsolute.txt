@@ -10,3 +10,15 @@ E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repa
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\bin\Debug\Windows Repair.exe.config
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.vbprojAssemblyReference.cache
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\bin\Debug\Windows Repair.exe.config
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\bin\Debug\Windows Repair.exe
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\bin\Debug\Windows Repair.pdb
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\bin\Debug\Windows Repair.xml
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\Windows Repair.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\ChuCong.Form1.resources
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\Windows Repair.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\Windows Repair.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\Windows Repair.exe
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\Windows Repair.xml
+D:\Source VBNet_C#\GitHub\Windows-Repair\Windows Repair\obj\Debug\Windows Repair.pdb
