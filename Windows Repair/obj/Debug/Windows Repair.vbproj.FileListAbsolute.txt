@@ -1,0 +1,12 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\bin\Debug\Windows Repair.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\bin\Debug\Windows Repair.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\bin\Debug\Windows Repair.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\bin\Debug\Windows Repair.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Windows Repair\obj\Debug\Windows Repair.vbproj.CoreCompileInputs.cache
